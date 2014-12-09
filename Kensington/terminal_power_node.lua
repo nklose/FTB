@@ -50,5 +50,5 @@ while true do
     else
         term.write("ERROR Connection closed")
     end
-    sleep(0.8)
+    sleep(5)
 end

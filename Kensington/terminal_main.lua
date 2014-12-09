@@ -1,5 +1,5 @@
 --[[Kensington Network
-    
+    Main controller for the terminal glasses bridge
 --]]
 
 local MAX_POWER = 10000000 * 4

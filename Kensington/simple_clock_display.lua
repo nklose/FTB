@@ -12,5 +12,5 @@ while true do
   m.setTextColor(colors.yellow)
   m.write(textutils.formatTime(os.time(), true))
   m.setCursorPos(2,3)
-  sleep(0.5)
+  sleep(3)
 end
